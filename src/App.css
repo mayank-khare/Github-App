@@ -1,0 +1,27 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 10vh
+}
+
+a{
+  text-decoration: none;
+  color:crimson
+}
+
+li{
+  list-style-type: none;
+  display: inline;
+  margin: 2rem;
+}
+
+nav{
+  background-color: lightgoldenrodyellow;
+}
+
+.MuiAvatar-root{
+  text-align: center;
+  display: block;
+  margin: auto;
+
+}
